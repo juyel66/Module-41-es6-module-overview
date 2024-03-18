@@ -1,0 +1,103 @@
+[
+    {
+      "name": "Rolex Submariner",
+      "id": "W001",
+      "price": 10000
+    },
+    {
+      "name": "Omega Seamaster",
+      "id": "W002",
+      "price": 8000
+    },
+    {
+      "name": "Tag Heuer Carrera",
+      "id": "W003",
+      "price": 6000
+    },
+    {
+      "name": "Cartier Tank",
+      "id": "W004",
+      "price": 12000
+    },
+    {
+      "name": "Audemars Piguet Royal Oak",
+      "id": "W005",
+      "price": 20000
+    },
+    {
+      "name": "Patek Philippe Nautilus",
+      "id": "W006",
+      "price": 25000
+    },
+    {
+      "name": "Hublot Big Bang",
+      "id": "W007",
+      "price": 18000
+    },
+    {
+      "name": "Panerai Luminor",
+      "id": "W008",
+      "price": 9000
+    },
+    {
+      "name": "Breitling Navitimer",
+      "id": "W009",
+      "price": 7000
+    },
+    {
+      "name": "IWC Portugieser",
+      "id": "W010",
+      "price": 15000
+    },
+    {
+      "name": "Seiko Prospex",
+      "id": "W011",
+      "price": 1000
+    },
+    {
+      "name": "Citizen Eco-Drive",
+      "id": "W012",
+      "price": 500
+    },
+    {
+      "name": "Casio G-Shock",
+      "id": "W013",
+      "price": 100
+    },
+    {
+      "name": "Fossil Sport",
+      "id": "W014",
+      "price": 200
+    },
+    {
+      "name": "Timex Weekender",
+      "id": "W015",
+      "price": 50
+    },
+    {
+      "name": "Tissot T-Touch",
+      "id": "W016",
+      "price": 600
+    },
+    {
+      "name": "Bulova Precisionist",
+      "id": "W017",
+      "price": 400
+    },
+    {
+      "name": "Movado Museum Classic",
+      "id": "W018",
+      "price": 700
+    },
+    {
+      "name": "Citizen Promaster",
+      "id": "W019",
+      "price": 300
+    },
+    {
+      "name": "Longines Master Collection",
+      "id": "W020",
+      "price": 1200
+    }
+  ]
+  
